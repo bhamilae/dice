@@ -1,1 +1,2 @@
-# Dice Game Project https://sdkdeepa.github.io/js-dice-game/
+# Dice Game Project 
+https://sdkdeepa.github.io/js-dice-game/dicee.html
