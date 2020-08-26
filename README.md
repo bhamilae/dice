@@ -1,2 +1,2 @@
 # Dice Game Project 
-https://sdkdeepa.github.io/dicegame
+https://sdkdeepa.github.io/dice
