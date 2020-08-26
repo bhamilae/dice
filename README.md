@@ -1,2 +1,1 @@
-# js-dice-game
-Dice Game Project
+# Dice Game Project
